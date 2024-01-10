@@ -40,7 +40,7 @@ My research interest includes optimization and numerical algebra.
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 - [Randomized Douglas-Rachford method for linear systems: Improved accuracy and efficiency](https://arxiv.org/abs/2207.04291), Han Deren, Su Yansheng, Zeng Yun, Xie Jiaxin. 
 
